@@ -1,0 +1,17 @@
+{
+    "name": "stanislav/stanislav-plugin",
+    "description": "SG task",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "stanislav247",
+            "email": "ivanov.stanislav247@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload":{
+        "psr-4": {"Inc\\": "./inc"}
+    }
+}
